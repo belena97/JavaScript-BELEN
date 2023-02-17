@@ -1,2 +1,1 @@
-# JavaScript-BELEN
-repositorio de prueba modulo 2
+Este proyecto es sobre JavaScript
